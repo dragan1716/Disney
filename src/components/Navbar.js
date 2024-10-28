@@ -10,7 +10,6 @@ const Navbar = () => {
 
   const toggleMenuHandler = () => {
     setToggleMenu(!toggleMenu);
-    console.log("Prikaz", toggleMenu);
   };
 
   return (
