@@ -14,10 +14,10 @@ Technologies Used
 - Tailwind CSS - for styling the interface in a modern, utility-first approach.
 
 Getting Started
-To run this project locally, follow these steps:
+- To run this project locally, follow these steps:
 
 Prerequisites
-Make sure you have Node.js and npm installed on your machine.
+- Make sure you have Node.js and npm installed on your machine.
 
 Installation
 1. Clone the repository: git clone https://github.com/your-username/disney-plus-clone.git
@@ -26,4 +26,4 @@ Installation
 4. Run the app: npm start
 
 API Configuration
- For fetching movie data, you’ll need an API key. Make sure to add your API key in the appropriate file.
+- For fetching movie data, you’ll need an API key. Make sure to add your API key in the appropriate file.
