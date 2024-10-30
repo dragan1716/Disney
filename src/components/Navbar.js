@@ -68,7 +68,7 @@ const Navbar = () => {
           <div onClick={toggleMenuHandler} className="flex items-center">
             <HiDotsVertical />
             {toggleMenu ? (
-              <div className="absolute p-4 top-14 border border-gray-400 bg-[#121212]">
+              <div className="absolute p-4 top-14 border border-gray-400 bg-[#121212] z-[100]">
                 <div className="flex items-center pb-4 hover:underline underline-offset-8">
                   <HiStar className="mr-2" />
                   <h2 className="uppercase font-semibold text-sm">Originals</h2>
