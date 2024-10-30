@@ -26,4 +26,4 @@ Installation
 4. Run the app: npm start
 
 API Configuration
-For fetching movie data, you’ll need an API key. Make sure to add your API key in the appropriate file.
+ For fetching movie data, you’ll need an API key. Make sure to add your API key in the appropriate file.
