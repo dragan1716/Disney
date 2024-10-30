@@ -21,7 +21,7 @@ Prerequisites
 
 Installation
 1. Clone the repository: git clone https://github.com/dragan1716/disney.git
-2. Navigate to the project directory: cd disney-plus-clone
+2. Navigate to the project directory: cd disney
 3. Install dependencies: npm install, npm i axios, npm i scrollbar-hide
 4. Run the app: npm start
 
