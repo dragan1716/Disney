@@ -11,4 +11,9 @@ const getTrendingVideos = axios.get(
 const getMovieByGenreId = (id) =>
   axios.get(movieByGenreBaseURL + "&with_genres=" + id);
 
-export default { getTrendingVideos, getMovieByGenreId };
+/* export default { getTrendingVideos, getMovieByGenreId };
+ */
+
+const api = { getTrendingVideos, getMovieByGenreId };
+
+export default api;
