@@ -1,6 +1,5 @@
 This is working version of app: https://disneyclone3.netlify.app/
 
-Disney Clone
 This project is a responsive clone of the Disney+ streaming platform interface, created with React, HTML, and Tailwind CSS. It showcases a range of movie categories and includes a movie slider, with data fetched dynamically from an API.
 
 Features
